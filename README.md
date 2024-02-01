@@ -11,6 +11,7 @@ This is **IOT based Air Pollution Monitoring System** which measures indoor harm
 - LEDs
 
 ## System Architecture:
+![Design](https://github.com/anu2a/Air-pollution-Monitoring-system/assets/117003966/36ea7696-bca4-4aa4-8879-28521a2d0287)
 
 
 ## Software Requirement:
